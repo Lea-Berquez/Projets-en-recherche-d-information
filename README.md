@@ -3,7 +3,8 @@
 Projets Python réalisé dans le cadre de l'UE Fondements de la Recherche d'Information de mon master 1 d'Informatique parcours Données et Connaissances. 
 Ces projets sont sur la recherche d'informations (méthodes et évaluation).
 
-Librairies : pandas, SciPy, NumPy, scikit-learn, 
+Librairies : pandas, SciPy, NumPy, scikit-learn
+
 Framework : Terrier 
 
 **TP 1 : Indexation d’un corpus des documents textes avec PyTerrier (version python de Terrier)** 
